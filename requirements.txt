@@ -1,0 +1,4 @@
+langgraph==1.2.12
+langchain_google_genai==4.4.0
+dotenv
+streamlit
