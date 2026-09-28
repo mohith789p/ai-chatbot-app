@@ -32,7 +32,7 @@ ai-chatbot-app/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/mohith789p/ai-chatbot-app.git
 cd ai-chatbot-app
 ```
 
